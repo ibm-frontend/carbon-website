@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="320px" viewBox="0 0 320 320" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-2" fill-opacity="0.6" fill="#FCD0D3" x="33" y="120" width="55" height="24" rx="12"></rect>
+        <rect id="Rectangle-2-Copy" fill-opacity="0.6" fill="#FFCFE1" x="92" y="120" width="80" height="24" rx="12"></rect>
+        <rect id="Rectangle-2-Copy-2" fill-opacity="0.6" fill="#E6D6FF" x="176" y="120" width="69" height="24" rx="12"></rect>
+        <path d="M45,148 L79,148 C85.627417,148 91,153.372583 91,160 L91,160 C91,166.627417 85.627417,172 79,172 L45,172 C38.372583,172 33,166.627417 33,160 L33,160 C33,153.372583 38.372583,148 45,148 Z" id="Rectangle-2-Copy-3" fill-opacity="0.6" fill="#C9DEFF"></path>
+        <path d="M107,148 L143,148 C149.627417,148 155,153.372583 155,160 L155,160 C155,166.627417 149.627417,172 143,172 L107,172 C100.372583,172 95,166.627417 95,160 L95,160 C95,153.372583 100.372583,148 107,148 Z" id="Rectangle-2-Copy-4" fill-opacity="0.6" fill="#B3E6FF"></path>
+        <rect id="Rectangle-2-Copy-5" fill-opacity="0.6" fill="#92EEEE" x="159" y="148" width="57" height="24" rx="12"></rect>
+        <rect id="Rectangle-2-Copy-6" fill-opacity="0.6" fill="#9DEEB2" x="220" y="148" width="66" height="24" rx="12"></rect>
+        <path d="M46,176 L113,176 C119.627417,176 125,181.372583 125,188 L125,188 C125,194.627417 119.627417,200 113,200 L46,200 C39.372583,200 34,194.627417 34,188 L34,188 C34,181.372583 39.372583,176 46,176 Z" id="Rectangle-2-Copy-7" fill-opacity="0.6" fill="#D5D9E0"></path>
+        <path d="M141,176 L216,176 C222.627417,176 228,181.372583 228,188 L228,188 C228,194.627417 222.627417,200 216,200 L141,200 C134.372583,200 129,194.627417 129,188 L129,188 C129,181.372583 134.372583,176 141,176 Z" id="Rectangle-2-Copy-8" fill-opacity="0.6" fill="#E0DBDA"></path>
+        <rect id="Rectangle-Copy-4" fill="#DA1E28" x="43" y="128" width="36" height="8"></rect>
+        <rect id="Rectangle-Copy-5" fill="#D12765" x="100" y="128" width="63" height="8"></rect>
+        <rect id="Rectangle-Copy-6" fill="#8A3FFC" x="184" y="128" width="52" height="8"></rect>
+        <rect id="Rectangle-Copy-7" fill="#0062FF" x="43" y="156" width="38" height="8"></rect>
+        <rect id="Rectangle-Copy-8" fill="#0072C3" x="104" y="156" width="42" height="8"></rect>
+        <rect id="Rectangle-Copy-9" fill="#007D79" x="168" y="156" width="39" height="8"></rect>
+        <rect id="Rectangle-Copy-10" fill="#198038" x="228" y="156" width="50" height="8"></rect>
+        <rect id="Rectangle-Copy-11" fill="#13171A" x="43" y="184" width="73" height="8"></rect>
+        <rect id="Rectangle-Copy-12" fill="#1A1717" x="137" y="184" width="82" height="8"></rect>
+    </g>
+</svg>
