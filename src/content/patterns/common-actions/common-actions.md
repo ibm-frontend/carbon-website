@@ -2,9 +2,23 @@
 title: Common Actions
 ---
 
-**Common actions** are frequently used actions that appear multiple times across different components and workflows. For platform consistency, these actions should only be applied in the ways described below.
+
 
 <anchor-links>
+<ul>
+    <li><a href="#purpose">Purpose</a></li>
+    <li><a href="#regressive-actions">Regressive actions</a></li>
+    <li><a href="#progressive-actions">Progressive actions</a></li>
+</ul>
+</anchor-links>
+
+## Purpose
+
+Common actions are frequently used actions that appear multiple times across different components and workflows. For platform consistency, these actions should only be applied in the ways described below.
+
+## Regressive actions
+
+<anchor-links small="true">
 <ul>
     <li><a href="#cancel">Cancel</a></li>
     <li><a href="#clear">Clear</a></li>
@@ -12,19 +26,12 @@ title: Common Actions
     <li><a href="#delete">Delete</a></li>
     <li><a href="#remove">Remove</a></li>
     <li><a href="#reset">Reset</a></li>
-    <li><a href="#add">Add</a></li>
-    <li><a href="#copy">Copy</a></li>
-    <li><a href="#edit">Edit</a></li>
-    <li><a href="#next">Next</a></li>
-    <li><a href="#refresh">Refresh</a></li>
 </ul>
 </anchor-links>
 
-## Regressive actions
-
 ### Cancel
 
-**Cancel** stops the current action and closes the component or item. The user should be warned of any possible negative consequences of stopping an action from progressing, such as data corruption or data loss.
+Cancel stops the current action and closes the component or item. The user should be warned of any possible negative consequences of stopping an action from progressing, such as data corruption or data loss.
 
 **Usage:** Use a _secondary button_ or a _link_.
 
@@ -83,6 +90,16 @@ This action reverts values back to their last saved state. The last saved state 
 _"Reset" action in a filter._
 
 ## Progressive actions
+
+<anchor-links small="true">
+<ul>
+    <li><a href="#add">Add</a></li>
+    <li><a href="#copy">Copy</a></li>
+    <li><a href="#edit">Edit</a></li>
+    <li><a href="#next">Next</a></li>
+    <li><a href="#refresh">Refresh</a></li>
+</ul>
+</anchor-links>
 
 ### Add
 
